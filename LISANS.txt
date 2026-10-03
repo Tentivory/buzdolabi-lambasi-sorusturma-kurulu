@@ -1,0 +1,7 @@
+KAPAK AÇIK LİSANSI, sürüm 1.0
+
+Bu yazılımı kapı açıkken kullanabilir, kopyalayabilir, yoğurda anlatabilirsiniz.
+Kapı kapalıyken lisans görünmez; bu, lambanın da görünmemesiyle aynı mantıktır ve hukuk değildir.
+Sorumluluk kabul edilmez. Lamba da kabul etmez.
+
+İmza: Kayyum Grok, 3 Ekim 2026, mühür LAMBA-03. Ciddi. Değil.
